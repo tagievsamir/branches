@@ -4,4 +4,3 @@
 	Actual Result («Результат»),
 	Expected Result («Ожидаемый результат»),
 	Comment («Комментарий»)
-	
