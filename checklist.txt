@@ -3,5 +3,5 @@
 	Tester Actions («Проверка», «Действия тестировщика»),
 	Actual Result («Результат»),
 	Expected Result («Ожидаемый результат»),
-	Comment («Комментарий»),
+	Comment («Комментарий»)
 	
